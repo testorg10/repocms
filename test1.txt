@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+ the file is changed git first
+=======
+i am inside file1.txt
+>>>>>>> 7f6f669dc0f514d31b8bf6ace1819b60f1b83f50
